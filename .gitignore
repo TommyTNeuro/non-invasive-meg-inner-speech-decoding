@@ -13,3 +13,4 @@ wheels/
 data/
 
 # Jupyter Environments
+.ipynb_checkpoints/
